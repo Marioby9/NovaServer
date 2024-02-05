@@ -19,3 +19,4 @@ html, body, #app { @apply full }
 .page{ @apply w-full h-full flex justify-center}
 .main{ @apply max-w-[70%] w-[70%] px-20 h-full flex flex-col bg-overlayBlue}
 .sectionTitle{ @apply text-3xl font-medium }
+.cont { @apply flex flex-col gap-6 }
